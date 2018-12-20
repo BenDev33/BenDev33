@@ -11,19 +11,16 @@ h5 {
 }
 
 #project1 {
-  background-image: url("../assets/TutorialWebsite.jpg");
   padding-left: 300px;
 }
 
 
 #project2 {
-  background-image: url("../assets/Creature.jpg");
   padding-left: 600px;
   margin-top: -200px;
 }
 
 #project3 {
-  background-image: url("../assets/Temperature.jpg");
   padding-left: 900px;
   margin-top: -200px;
 }
