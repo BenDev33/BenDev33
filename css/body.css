@@ -1,5 +1,61 @@
 body {
     background-color: var(--lightgrey);
-    font-family: var(--mainFont);
 }
 
+span {
+    padding: 3px;
+}
+
+.border {
+    background-color: rgb(73, 171, 204);
+    padding-bottom: 200px;
+}
+
+.image-container {
+    background-image: url("../assets/mountain2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    position: center;
+    height: 900px;
+  }
+
+
+
+.text {
+    background-color: white;
+    color: black;
+    font-size: 5vw; 
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 10px;
+    width:40%;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    mix-blend-mode: screen;
+    animation: fadein 3s;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    color: white;
+    padding-top: 410px;
+}
+
+#image-container {
+    background-image: url("../assets/fog-1535201_1920.jpg");
+    border: solid 1px lightgray;
+    background-size: cover;
+    background-attachment: fixed;
+    position: center;
+    height: 400px;
+}
+
+h2 {
+    text-align: center;
+    border: solid 1px lightgray;
+    border-bottom: 10em;
+}
