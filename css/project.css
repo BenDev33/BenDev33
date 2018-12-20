@@ -10,19 +10,19 @@ h5 {
   padding-top: 60px;
 }
 
-#project1 {
+#project1 img {
   background-image: url("../assets/TutorialWebsite.jpg");
   padding-left: 300px;
 }
 
 
-#project2 {
+#project2 img {
   background-image: url("../assets/Creature.jpg");
   padding-left: 600px;
   margin-top: -200px;
 }
 
-#project3 {
+#project3 img {
   background-image: url("../assets/Temperature.jpg");
   padding-left: 900px;
   margin-top: -200px;
