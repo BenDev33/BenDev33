@@ -1,3 +1,10 @@
-#nav-content {
-    margin-left: 80%;
+/* Icons */
+
+span a{
+    color: gray;
 }
+
+span:hover a{
+    color: lightgrey;
+}
+

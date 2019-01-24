@@ -1,8 +1,29 @@
-#contact {
-    background-color: rgb(253, 252, 252);
-    color: black;
+
+.contact {
+    background: url('../assets/architecture.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    padding-top: 10px;
 }
 
-.container {
-    padding-left: 300px;
+.form-group {
+    margin-bottom: -120px;
+    margin-left: 25%;
+    width: 50%;
+}
+
+
+h2{
+    font-family: 'VT323', monospace;
+    text-align: center;
+    color: rgb(248, 248, 248);
+}
+
+.contact button {
+    margin-bottom: 50px;
+}
+
+.contact button:hover {
+    background-color :lightgray;
 }
