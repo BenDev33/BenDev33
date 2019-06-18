@@ -1,3 +1,10 @@
+.navbar {
+    width: 100vw;
+    position: fixed;
+    z-index: 2;
+}
+
+
 /* Icons */
 
 span a{
